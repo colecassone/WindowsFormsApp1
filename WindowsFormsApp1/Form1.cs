@@ -29,11 +29,11 @@ namespace WindowsFormsApp1
 
             Refresh();
             Thread.Sleep(1000);
-            PlayButton.Text = "2";
+            PlayButton.Text = "2.0";
 
             Refresh();
             Thread.Sleep(1000);
-            PlayButton.Text = "1";
+            PlayButton.Text = "1.0";
 
             Refresh();
             Thread.Sleep(1000);
